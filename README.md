@@ -1,4 +1,4 @@
-# Text to Image for PHP
+# text_to_image
 
 GitHub: https://github.com/matheusjohannaraujo/text_to_image
 <br>
