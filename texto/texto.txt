@@ -1,0 +1,5 @@
+Função: Converter um arquivo de texto em imagem com PHP
+Desenvolvido por: Matheus Johann Araújo
+E-mail: matheusjohannaraujo@gmail.com
+GitHub: https://github.com/matheusjohannaraujo/text_to_image
+Data: 28/06/2019
