@@ -5,5 +5,5 @@ GitHub: https://github.com/matheusjohannaraujo/text_to_image
 Desenvolvedor: Matheus Johann Araújo, Brasil \ Pernambuco \ Recife
 <br>
 Publicado em: 20/01/2020
-<hr>
+<hr><br>
 Conversor de texto para imagem com PHP
